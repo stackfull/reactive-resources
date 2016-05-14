@@ -1,0 +1,26 @@
+{
+  "name": "reactive-resource",
+  "version": "0.0.1",
+  "description": "Reactive Resources provides a streaming interface to realtime updates of resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.config.js --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackfull/reactive-resources.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "rx",
+    "rest",
+    "hal"
+  ],
+  "author": "paul@stackfull.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackfull/reactive-resources/issues"
+  },
+  "homepage": "https://github.com/stackfull/reactive-resources#readme"
+}
